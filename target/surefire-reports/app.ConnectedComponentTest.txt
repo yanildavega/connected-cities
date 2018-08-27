@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: app.ConnectedComponentTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.383 s <<< FAILURE! - in app.ConnectedComponentTest
+initializationError(app.ConnectedComponentTest)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
